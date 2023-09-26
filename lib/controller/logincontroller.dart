@@ -3,7 +3,7 @@ import 'dart:io';
 import 'package:flutter/material.dart';
 import 'package:image_picker/image_picker.dart';
 
-import '../Functions/db_functions.dart';
+import '../services/db_functions.dart';
 import '../Models/db_model.dart';
 
 class loginprovider with ChangeNotifier{

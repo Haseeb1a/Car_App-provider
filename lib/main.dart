@@ -1,7 +1,7 @@
 import 'package:crud_hive_task/Models/db_model.dart';
 import 'package:crud_hive_task/controller/logincontroller.dart';
 import 'package:crud_hive_task/controller/updatecontroller.dart';
-import 'package:crud_hive_task/screens/first_page.dart';
+import 'package:crud_hive_task/view/first_page.dart';
 import 'package:flutter/material.dart';
 import 'package:hive_flutter/adapters.dart';
 import 'package:provider/provider.dart';

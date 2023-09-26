@@ -1,10 +1,10 @@
 import 'dart:io';
 import 'package:crud_hive_task/controller/updatecontroller.dart';
-import 'package:crud_hive_task/screens/list_page.dart';
+import 'package:crud_hive_task/view/list_page.dart';
 import 'package:flutter/material.dart';
 import 'package:image_picker/image_picker.dart';
 import 'package:crud_hive_task/Models/db_model.dart';
-import 'package:crud_hive_task/Functions/db_functions.dart';
+import 'package:crud_hive_task/services/db_functions.dart';
 import 'package:provider/provider.dart';
 
 class UpdateScreen extends StatefulWidget {

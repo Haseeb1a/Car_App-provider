@@ -1,5 +1,5 @@
-import 'package:crud_hive_task/Functions/db_functions.dart';
-import 'package:crud_hive_task/screens/login_page.dart';
+import 'package:crud_hive_task/services/db_functions.dart';
+import 'package:crud_hive_task/view/login_page.dart';
 import 'package:flutter/material.dart';
 
 class FirstPage extends StatelessWidget {

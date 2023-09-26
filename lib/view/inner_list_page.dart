@@ -1,6 +1,6 @@
 import 'dart:io';
 
-import 'package:crud_hive_task/screens/list_page.dart';
+import 'package:crud_hive_task/view/list_page.dart';
 import 'package:flutter/material.dart';
 
 class InnerList extends StatelessWidget {
